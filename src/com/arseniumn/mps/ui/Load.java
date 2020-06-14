@@ -1,4 +1,4 @@
-package com.arseniosch.mps.ui;
+package com.arseniumn.mps.ui;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
@@ -10,11 +10,11 @@ import java.util.Arrays;
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 
-import com.arseniosch.mps.model.Column;
-import com.arseniosch.mps.model.MPSModel;
-import com.arseniosch.mps.model.RHS;
-import com.arseniosch.mps.model.Row;
-import com.arseniosch.mps.util.FileTypeFilter;
+import com.arseniumn.mps.model.Column;
+import com.arseniumn.mps.model.MPSModel;
+import com.arseniumn.mps.model.RHS;
+import com.arseniumn.mps.model.Row;
+import com.arseniumn.mps.util.FileTypeFilter;
 
 public class Load {
 

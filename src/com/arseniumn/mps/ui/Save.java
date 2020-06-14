@@ -1,4 +1,4 @@
-package com.arseniosch.mps.ui;
+package com.arseniumn.mps.ui;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -7,8 +7,8 @@ import javax.swing.JEditorPane;
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 
-import com.arseniosch.mps.model.MPSModel;
-import com.arseniosch.mps.util.FileTypeFilter;
+import com.arseniumn.mps.model.MPSModel;
+import com.arseniumn.mps.util.FileTypeFilter;
 
 public class Save {
 

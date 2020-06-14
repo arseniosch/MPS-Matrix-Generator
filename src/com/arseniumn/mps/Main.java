@@ -1,11 +1,11 @@
-package com.arseniosch.mps;
+package com.arseniumn.mps;
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
 import javax.swing.UIManager;
 import javax.swing.UIManager.LookAndFeelInfo;
 
-import com.arseniosch.mps.ui.MPSHandler;
+import com.arseniumn.mps.ui.MPSHandler;
 
 public class Main {
 

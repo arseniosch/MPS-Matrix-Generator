@@ -1,4 +1,4 @@
-package com.arseniosch.mps.model;
+package com.arseniumn.mps.model;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;

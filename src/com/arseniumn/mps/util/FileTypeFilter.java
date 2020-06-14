@@ -1,4 +1,4 @@
-package com.arseniosch.mps.util;
+package com.arseniumn.mps.util;
 import java.io.File;
 
 import javax.swing.filechooser.FileFilter;

@@ -1,4 +1,4 @@
-package com.arseniosch.mps.ui;
+package com.arseniumn.mps.ui;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Cursor;
@@ -25,7 +25,7 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.border.LineBorder;
 
-import com.arseniosch.mps.model.MPSModel;
+import com.arseniumn.mps.model.MPSModel;
 
 @SuppressWarnings("serial")
 public class MPSHandler extends JFrame {
