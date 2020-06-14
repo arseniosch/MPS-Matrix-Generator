@@ -1,5 +1,5 @@
 # MPS-to-Matrices
-MPS (Mathematical Programming System) refers to a file format for presenting and archiving linear programming (LP) and mixed integer programming problems. In this program, .mps files are used as input in order to generate (output) the matrices A, b, c, constraints-matrices of a LP or Mixed Integer problem and visualize them as arrays. For example, a sample model written in MPS format is:
+MPS (Mathematical Programming System) refers to a file format for presenting and archiving linear programming (LP) and mixed integer programming problems. In this program, .mps files are used as input in order to generate (output) the matrices A, b, c, constraints-matrices of an LP or Mixed Integer problem and visualize them as arrays. For example, a sample model written in MPS format is:
 
     NAME MY_LP
     ROWS
